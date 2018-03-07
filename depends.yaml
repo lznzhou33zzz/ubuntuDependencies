@@ -1,0 +1,372 @@
+bc:
+  ubuntu:
+    bc
+libsvm:
+  ubuntu:
+    trusty:
+      libsvm-dev
+    xenial:
+      libsvm-dev
+imagemagick:
+  ubuntu:
+    trusty:
+      imagemagick
+    xenial:
+      imagemagick
+pdf2svg:
+  ubuntu:
+    trusty:
+      pdf2svg
+python-psutil:
+  ubuntu:
+    python-psutil
+python_pygraphviz:
+  ubuntu:
+    trusty:
+      python-pygraphviz
+    xenial:
+      python-pygraphviz
+python-pip:
+  ubuntu:
+    trusty:
+      python-pip
+python-time:
+  ubuntu:
+    trusty:
+      python-time
+python-nose:
+  ubuntu:
+    trusty:
+      python-nose
+    xenial:
+      python-nose
+python:
+  ubuntu:
+    python-dev
+python-dev:
+  ubuntu:
+    trusty:
+      python-dev
+pdf2svg:
+  ubuntu:
+    trusty:
+      pdf2svg
+python-excelerator:
+  ubuntu:
+    python-excelerator
+ftgl:
+  ubuntu:
+     libftgl-dev
+libavformat:
+  ubuntu:
+    precise:
+      libavformat53
+    trusty:
+      libavformat54
+    xenial:
+      libavformat-dev
+libavcodec:
+  ubuntu:
+    precise:
+      libavcodec53
+    trusty:
+      libavcodec54
+    xenial:
+      libavcodec-dev
+libswscale:
+  ubuntu:
+    trusty:
+     libswscale2
+    xenial:
+     libswscale-dev
+libjpeg:
+  ubuntu:
+    libjpeg-dev
+default-jdk:
+  ubuntu:
+     default-jdk
+wine:
+  ubuntu:
+     wine
+qwt5_qt4:
+  ubuntu:
+     libqwt5-qt4-dev
+ftgl:
+  ubuntu:
+    libftgl-dev
+glew:
+  ubuntu:
+    libglew1.5-dev
+gsl:
+  ubuntu:
+    precise:
+      libgsl0-dev
+    trusty:
+      libgsl0-dev
+    xenial:
+      libgsl-dev
+qwt5-qt4:
+    ubuntu: qwt5-qt4-dev
+libxml++2.6:
+  ubuntu: libxml++2.6-dev
+libgmp:
+  ubuntu: libgmp3-dev
+lapack:
+  ubuntu: liblapack-dev
+blas:
+  ubuntu: libblas-dev
+libblas-dev:
+  ubuntu:
+    libblas-dev
+gpsd:
+  ubuntu:
+    libgps-dev
+scikit-learn:
+  ubuntu:
+    python-scikits-learn
+libatlas-dev:
+  ubuntu:
+    libatlas-dev
+libgoogle-perftools-dev:
+  ubuntu:
+    libgoogle-perftools-dev
+zenity:
+  ubuntu:
+    zenity
+pcap:
+  ubuntu:
+    libpcap-dev
+mysqlcppconn:
+  ubuntu:
+    libmysqlcppconn-dev
+freetype:
+  ubuntu:
+    libfreetype6-dev
+usb:
+  ubuntu:
+    trusty:
+      libusb-devc
+      libusb-1.0-0
+spnav:
+  ubuntu:
+    trusty:
+      libspnav-dev
+libg2o:
+  ubuntu:
+    trusty:
+      ros-jade-libg2o
+    xenial:
+      ros-kinetic-libg2o
+geographiclib:
+  ubuntu:
+    trusty:
+      geographiclib-dev
+    xenial:
+      libgeographic-dev
+eblearn:
+  ubuntu:
+    trusty:
+      eblearn-dev
+ipopt:
+  ubuntu:
+    trusty:
+      ipopt-dev
+    xenial:
+      coinor-libipopt-dev
+protobuf:
+  ubuntu:
+    trusty:
+      python-protobuf
+python-numpy:
+  ubuntu:
+    python-numpy
+numpy:
+  ubuntu:
+    trusty:
+      python-numpy
+python-scipy:
+  ubuntu:
+    python-scipy
+scipy:
+  ubuntu:
+    trusty:
+      python-scipy
+    xenial:
+      python-scipy
+django:
+  ubuntu:
+    trusty:
+      python-django
+    xenial:
+      python-django
+python-shapely:
+  ubuntu:
+    python-shapely
+shapely:
+  ubuntu:
+    trusty:
+      python-shapely
+python-jenkinsapi:
+  ubuntu:
+    python-jenkinsapi
+mysql-client:
+  ubuntu:
+    trusty:
+      mysql-client
+eigen:
+  ubuntu:
+    libeigen3-dev
+tf2_eigen:
+  ubuntu:
+    trusty:
+      ros-jade-tf2-eigen
+    xenial:
+      ros-kinetic-tf2-eigen
+cvt:
+  ubuntu:
+    trusty:
+      libcvt
+      ocl-icd-opencl-dev
+    xenial:
+      libcvt
+      ocl-icd-opencl-dev
+rubber:
+  ubuntu: rubber
+mathjax:
+  ubuntu: fonts-mathjax-extras
+plantuml-osd:
+  ubuntu:
+    trusty:
+      plantuml
+    xenial:
+      plantuml-osd
+openjdk-7-jre:
+  ubuntu:
+    openjdk-7-jre
+openjdk-8-jre:
+  ubuntu:
+    openjdk-8-jre
+openjdk-jre:
+  ubuntu:
+   trusty:
+     openjdk-7-jre
+   xenial:
+     openjdk-8-jre
+batik-java:
+  ubuntu:
+    libbatik-java
+avalon-framework-java:
+  ubuntu:
+    libavalon-framework-java
+commons-io-java:
+  ubuntu:
+    libcommons-io-java
+commons-logging-java:
+  ubuntu:
+    libcommons-logging-java
+fop-java:
+  ubuntu:
+    libfop-java
+xmlgraphics-commons-java:
+  ubuntu:
+    libxmlgraphics-commons-java
+xml-commons-external-java:
+  ubuntu:
+    libxml-commons-external-java
+ant-java:
+  ubuntu:
+    ant
+texlive-base:
+  ubuntu:
+    texlive-base
+texlive-latex-extra:
+  ubuntu:
+    texlive-latex-extra
+libtclap-dev:
+  ubuntu:
+    trusty:
+      libtclap-dev
+    xenial:
+      libtclap-dev
+pgfplot-backport:
+  ubuntu:
+    trusty:
+      pgfplot-backport
+    xenial:
+      pgfplot-backport
+standalone-backport:
+  ubuntu:
+    trusty:
+      standalone-backport
+    xenial:
+      standalone-backport
+tikz-backport:
+  ubuntu:
+    trusty:
+      tikz-backport
+    xenial:
+      tikz-backport
+python-theano:
+  ubuntu:
+    trusty:
+      python-theano
+      python-six
+    xenial:
+      python-theano
+python-lasagne:
+  ubuntu:
+    trusty:
+      python-lasagne
+      python-six
+    xenial:
+      python-lasagne
+      python-six
+python-h5py:
+  ubuntu:
+    trusty:
+      python-h5py
+    xenial:
+      python-h5py
+python_qt_binding:
+  ubuntu:
+    trusty:
+      ros-jade-python-qt-binding
+eigen_conversions:
+  ubuntu:
+    trusty:
+      ros-jade-eigen-conversions
+    xenial:
+      ros-kinetic-eigen-conversions
+rviz:
+  ubuntu:
+    trusty:
+      ros-jade-rviz
+    xenial:
+      ros-kinetic-rviz
+python-gtk2:
+  ubuntu:
+    xenial:
+      python-gtk2
+libzmq:
+  ubuntu:
+    xenial:
+      libzmq-dev
+pcl-tools:
+  ubuntu:
+    pcl-tools
+asammdf:
+  ubuntu:
+    xenial:
+      python-asammdf
+libzmqpp-dev:
+  ubuntu:
+    xenial:
+      libzmqpp-dev
+libzmq5:
+  ubuntu:
+    xenial:
+      libzmq5
+flatbuffers:
+  ubuntu:
+    xenial:
+      flatbuffers
